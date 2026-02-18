@@ -6,9 +6,9 @@ This project focuses on generating structured procedural plans under explicit te
 <br>
 Skeleton: <br>
 Natural language instruction <br>
-          ↓ <br>
+&nbsp;          ↓ <br>
 Structured action graph <br>
-          ↓ <br>
+&nbsp;          ↓ <br>
 Constraint-aware execution simulation <br>
-          ↓ <br>
+&nbsp;          ↓ <br>
 Feasibility verification + visualization
